@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\PAPS LR1.exe
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\PAPS LR1.deps.json
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\PAPS LR1.runtimeconfig.json
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\PAPS LR1.runtimeconfig.dev.json
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\PAPS LR1.dll
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\PAPS LR1.pdb
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\obj\Debug\netcoreapp3.1\PAPS LR1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\obj\Debug\netcoreapp3.1\PAPS LR1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\obj\Debug\netcoreapp3.1\PAPS LR1.AssemblyInfo.cs
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\obj\Debug\netcoreapp3.1\PAPS LR1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\obj\Debug\netcoreapp3.1\PAPS LR1.dll
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\obj\Debug\netcoreapp3.1\PAPS LR1.pdb
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\obj\Debug\netcoreapp3.1\PAPS LR1.genruntimeconfig.cache
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary2.dll
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary2.pdb
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\obj\Debug\netcoreapp3.1\PAPS LR1.csproj.CopyComplete
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary3.dll
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary4.dll
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary5.dll
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary3.pdb
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary4.pdb
+C:\Users\User\source\repos\PAPS LR1\PAPS LR1\bin\Debug\netcoreapp3.1\ClassLibrary5.pdb

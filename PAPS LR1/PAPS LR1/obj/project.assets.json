@@ -1,0 +1,166 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
+      },
+      "ClassLibrary2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ClassLibrary2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary2.dll": {}
+        }
+      },
+      "ClassLibrary3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ClassLibrary3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary3.dll": {}
+        }
+      },
+      "ClassLibrary4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ClassLibrary4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary4.dll": {}
+        }
+      },
+      "ClassLibrary5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ClassLibrary5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
+    },
+    "ClassLibrary2/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary2/ClassLibrary2.csproj",
+      "msbuildProject": "../ClassLibrary2/ClassLibrary2.csproj"
+    },
+    "ClassLibrary3/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary3/ClassLibrary3.csproj",
+      "msbuildProject": "../ClassLibrary3/ClassLibrary3.csproj"
+    },
+    "ClassLibrary4/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary4/ClassLibrary4.csproj",
+      "msbuildProject": "../ClassLibrary4/ClassLibrary4.csproj"
+    },
+    "ClassLibrary5/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary5/ClassLibrary5.csproj",
+      "msbuildProject": "../ClassLibrary5/ClassLibrary5.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ClassLibrary1 >= 1.0.0",
+      "ClassLibrary2 >= 1.0.0",
+      "ClassLibrary3 >= 1.0.0",
+      "ClassLibrary4 >= 1.0.0",
+      "ClassLibrary5 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\PAPS LR1\\PAPS LR1\\PAPS LR1.csproj",
+      "projectName": "PAPS LR1",
+      "projectPath": "C:\\Users\\User\\source\\repos\\PAPS LR1\\PAPS LR1\\PAPS LR1.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\PAPS LR1\\PAPS LR1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary1\\ClassLibrary1.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary2\\ClassLibrary2.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary2\\ClassLibrary2.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary3\\ClassLibrary3.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary3\\ClassLibrary3.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary4\\ClassLibrary4.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary4\\ClassLibrary4.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary5\\ClassLibrary5.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\PAPS LR1\\ClassLibrary5\\ClassLibrary5.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
