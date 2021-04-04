@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PAPS LR4\PAPS LR4 Server\XMLRPCServer\bin\Debug\XMLRPCServer.exe.config
+C:\Users\User\source\repos\PAPS LR4\PAPS LR4 Server\XMLRPCServer\bin\Debug\XMLRPCServer.exe
+C:\Users\User\source\repos\PAPS LR4\PAPS LR4 Server\XMLRPCServer\bin\Debug\XMLRPCServer.pdb
+C:\Users\User\source\repos\PAPS LR4\PAPS LR4 Server\XMLRPCServer\obj\Debug\PAPS LR4 Server.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PAPS LR4\PAPS LR4 Server\XMLRPCServer\obj\Debug\PAPS LR4 Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PAPS LR4\PAPS LR4 Server\XMLRPCServer\obj\Debug\XMLRPCServer.exe
+C:\Users\User\source\repos\PAPS LR4\PAPS LR4 Server\XMLRPCServer\obj\Debug\XMLRPCServer.pdb
+C:\Институт\LR PiAPS\PAPS LR4\PAPS LR4 Server\XMLRPCServer\bin\Debug\XMLRPCServer.exe.config
+C:\Институт\LR PiAPS\PAPS LR4\PAPS LR4 Server\XMLRPCServer\bin\Debug\XMLRPCServer.exe
+C:\Институт\LR PiAPS\PAPS LR4\PAPS LR4 Server\XMLRPCServer\bin\Debug\XMLRPCServer.pdb
+C:\Институт\LR PiAPS\PAPS LR4\PAPS LR4 Server\XMLRPCServer\obj\Debug\PAPS LR4 Server.csprojAssemblyReference.cache
+C:\Институт\LR PiAPS\PAPS LR4\PAPS LR4 Server\XMLRPCServer\obj\Debug\PAPS LR4 Server.csproj.CoreCompileInputs.cache
+C:\Институт\LR PiAPS\PAPS LR4\PAPS LR4 Server\XMLRPCServer\obj\Debug\XMLRPCServer.exe
+C:\Институт\LR PiAPS\PAPS LR4\PAPS LR4 Server\XMLRPCServer\obj\Debug\XMLRPCServer.pdb
