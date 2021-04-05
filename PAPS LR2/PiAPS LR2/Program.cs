@@ -14,10 +14,14 @@ namespace PiAPS_LR2
         static int port = 8005;
         static Socket soket;
         static Thread clientThread;
+        static List<Socket> list;
 
         public static void users()
         {
+            IPEndPoint point1 = new IPEndPoint(IPAddress.Broadcast, 8005);
             Socket client = soket.Accept();
+            list.Add(client);
+
             String name = "";
             while (true)
             {
@@ -39,7 +43,10 @@ namespace PiAPS_LR2
                             Console.WriteLine(name + ": подключился к чату");
                             String mes = name + ": подключился к чату";
                             data = Encoding.Unicode.GetBytes(mes);
-                            client.Send(data);
+                            for (int i = 0; i < list.Count; i++)
+                            {
+                                list[i].SendTo(data, point1);
+                            }
                         }
                         // если пользователь решил выйти, закрываем сокет, пишем что он отключился и отправляем ответ
                         if (text_str.Contains("/EXIT"))
@@ -47,7 +54,10 @@ namespace PiAPS_LR2
                             Console.WriteLine(name + ": отключился от чата");
                             String mes = name + ": отключился от чата";
                             data = Encoding.Unicode.GetBytes(mes);
-                            client.Send(data);
+                            for (int i = 0; i < list.Count; i++)
+                            {
+                                list[i].SendTo(data, point1);
+                            }
                             client.Shutdown(SocketShutdown.Both);
                             client.Close();
                             clientThread.Interrupt();
@@ -58,7 +68,10 @@ namespace PiAPS_LR2
                             String mes = name + ": " + text_str.Trim('/', 'S', 'E', 'N', 'D');
                             Console.WriteLine(mes);
                             data = Encoding.Unicode.GetBytes(mes);
-                            client.Send(data);
+                            for (int i = 0; i < list.Count; i++)
+                            {
+                                list[i].SendTo(data, point1);
+                            }
                         }
 
                     }
@@ -68,16 +81,19 @@ namespace PiAPS_LR2
 
         static void Main(string[] args)
         {
+            list = new List<Socket>(); //список пользователя
             IPEndPoint ipPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), port);
             // создаем сокет и прослушиваем его
             soket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             soket.Bind(ipPoint);
             soket.Listen(10);
             Console.WriteLine("Сервер запущен");
+            int i = 0;
             while (true)
             {
                 if(soket.Poll(-1, SelectMode.SelectRead))
                     { // создаем поток для клиента и запускаем его
+                    i++;
                  clientThread = new Thread(new ThreadStart(users));
                 clientThread.Start();}
 
