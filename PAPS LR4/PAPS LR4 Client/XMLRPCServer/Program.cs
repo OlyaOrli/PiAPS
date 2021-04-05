@@ -43,7 +43,7 @@ namespace PAPS_LR4_Client
                 {
                     Console.WriteLine("ПРЕДУПРЕЖДЕНИЕ! Введите целое число");
                 }
-            
+
             // вывод введеных данных в виде квадратной матрицы
             k = 0;
             Console.WriteLine("Введенная матрица");
@@ -67,22 +67,34 @@ namespace PAPS_LR4_Client
             client.Params.Add(n);
             response = client.Send(adres);
             // Создание списка для элементов измененной матрицы и минимального числа. 
-            //Элементы в списке расположены в следующем порядке: минимальный элемент, элемнты матрицы 
-            ArrayList resualt = new ArrayList( n * n + 1);
+            //Элементы в списке расположены в следующем порядке: минимальный элемент, элемнты первой матрицы, элементы второй матрицы 
+            ArrayList resualt = new ArrayList(2 * n * n + 1);
             resualt = (ArrayList)response.Value;
-            
-            
+
+
             int kk = 0;
             Console.WriteLine("");
             // Вывод минимального элемента
             Console.WriteLine("Минимальный элемент: " + resualt[kk]);
             kk++;
             Console.WriteLine("");
-            // Вывод измененной матрицы
-            Console.WriteLine("Измененная матрица ");
-            for (int i =0; i<n; i++)
+            // Вывод первого варианта измененной матрицы
+            Console.WriteLine("Первый вариант измененной матрицы ");
+            for (int i = 0; i < n; i++)
             {
-                for (int j=0; j<n; j++)
+                for (int j = 0; j < n; j++)
+                {
+                    Console.Write(resualt[kk] + " ");
+                    kk++;
+                }
+                Console.WriteLine("");
+            }
+            Console.WriteLine("");
+            // Вывод второго варианта измененной матрицы
+            Console.WriteLine("Второй вариант измененной матрицы ");
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
                 {
                     Console.Write(resualt[kk] + " ");
                     kk++;
@@ -90,8 +102,8 @@ namespace PAPS_LR4_Client
                 Console.WriteLine("");
             }
 
-            
             Console.ReadLine();
         }
     }
 }
+
