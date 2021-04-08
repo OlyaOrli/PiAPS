@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\bin\Debug\PAPS LR5.exe.config
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\bin\Debug\PAPS LR5.exe
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\bin\Debug\PAPS LR5.pdb
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\obj\Debug\PAPS_LR5.Form1.resources
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\obj\Debug\PAPS_LR5.Properties.Resources.resources
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.exe
+C:\Users\User\source\repos\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.pdb
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\bin\Debug\PAPS LR5.exe.config
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\bin\Debug\PAPS LR5.exe
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\bin\Debug\PAPS LR5.pdb
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.csprojAssemblyReference.cache
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\obj\Debug\PAPS_LR5.Form1.resources
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\obj\Debug\PAPS_LR5.Properties.Resources.resources
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.csproj.GenerateResource.cache
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.csproj.CoreCompileInputs.cache
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.exe
+C:\Институт\LR PiAPS\PAPS LR5\PAPS LR5\obj\Debug\PAPS LR5.pdb
