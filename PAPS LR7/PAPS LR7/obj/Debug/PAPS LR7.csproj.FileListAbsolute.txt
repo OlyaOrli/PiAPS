@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\obj\Debug\PAPS LR7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\obj\Debug\PAPS LR7.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\obj\Debug\PAPS_LR7.Form1.resources
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\obj\Debug\PAPS_LR7.Properties.Resources.resources
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\obj\Debug\PAPS LR7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\obj\Debug\PAPS LR7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\bin\Debug\PAPS LR7.exe.config
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\bin\Debug\PAPS LR7.exe
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\bin\Debug\PAPS LR7.pdb
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\obj\Debug\PAPS LR7.exe
+C:\Users\User\source\repos\PAPS LR7\PAPS LR7\obj\Debug\PAPS LR7.pdb
