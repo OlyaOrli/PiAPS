@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\bin\Debug\PAPS LR6 Client.exe.config
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\bin\Debug\PAPS LR6 Client.exe
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\bin\Debug\PAPS LR6 Client.pdb
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\obj\Debug\PAPS LR6 Client.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\obj\Debug\PAPS_LR6_Client.Form1.resources
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\obj\Debug\PAPS_LR6_Client.Properties.Resources.resources
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\obj\Debug\PAPS LR6 Client.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\obj\Debug\PAPS LR6 Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\obj\Debug\PAPS LR6 Client.exe
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Client\PAPS LR6 Client\obj\Debug\PAPS LR6 Client.pdb

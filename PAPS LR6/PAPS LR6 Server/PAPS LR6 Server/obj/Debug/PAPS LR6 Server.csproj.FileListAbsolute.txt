@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Server\PAPS LR6 Server\bin\PAPS LR6 Server.dll.config
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Server\PAPS LR6 Server\bin\PAPS LR6 Server.dll
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Server\PAPS LR6 Server\bin\PAPS LR6 Server.pdb
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Server\PAPS LR6 Server\obj\Debug\PAPS LR6 Server.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Server\PAPS LR6 Server\obj\Debug\PAPS LR6 Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Server\PAPS LR6 Server\obj\Debug\PAPS LR6 Server.dll
+C:\Users\User\source\repos\PiAPS LR6\PAPS LR6 Server\PAPS LR6 Server\obj\Debug\PAPS LR6 Server.pdb
+C:\Институт\LR PiAPS\PAPS LR6\PAPS LR6 Server\PAPS LR6 Server\bin\PAPS LR6 Server.dll.config
+C:\Институт\LR PiAPS\PAPS LR6\PAPS LR6 Server\PAPS LR6 Server\bin\PAPS LR6 Server.dll
+C:\Институт\LR PiAPS\PAPS LR6\PAPS LR6 Server\PAPS LR6 Server\bin\PAPS LR6 Server.pdb
+C:\Институт\LR PiAPS\PAPS LR6\PAPS LR6 Server\PAPS LR6 Server\obj\Debug\PAPS LR6 Server.csprojAssemblyReference.cache
+C:\Институт\LR PiAPS\PAPS LR6\PAPS LR6 Server\PAPS LR6 Server\obj\Debug\PAPS LR6 Server.csproj.CoreCompileInputs.cache
+C:\Институт\LR PiAPS\PAPS LR6\PAPS LR6 Server\PAPS LR6 Server\obj\Debug\PAPS LR6 Server.dll
+C:\Институт\LR PiAPS\PAPS LR6\PAPS LR6 Server\PAPS LR6 Server\obj\Debug\PAPS LR6 Server.pdb

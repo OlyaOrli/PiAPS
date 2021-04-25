@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:7864/Service1.svc?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:element name="reise">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="m1" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="m2" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reiseResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="reiseResult" nillable="true" type="q1:ArrayOfstring" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reise_otkuda">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="m" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reise_otkudaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="reise_otkudaResult" nillable="true" type="q2:ArrayOfstring" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reise_kuda">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="m" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reise_kudaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="reise_kudaResult" nillable="true" type="q3:ArrayOfstring" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bron">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="n" type="xs:int" />
+        <xs:element minOccurs="0" name="k" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bronResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="bronResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
