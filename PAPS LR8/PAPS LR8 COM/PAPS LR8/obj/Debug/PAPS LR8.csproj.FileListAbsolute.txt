@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\PAPS LR8\PAPS LR8\bin\Debug\PAPS LR8.dll
+C:\Users\User\source\repos\PAPS LR8\PAPS LR8\bin\Debug\PAPS LR8.pdb
+C:\Users\User\source\repos\PAPS LR8\PAPS LR8\obj\Debug\PAPS LR8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PAPS LR8\PAPS LR8\obj\Debug\PAPS LR8.dll
+C:\Users\User\source\repos\PAPS LR8\PAPS LR8\obj\Debug\PAPS LR8.pdb
+C:\Users\User\source\repos\PAPS LR8\PAPS LR8\obj\Debug\PAPS LR8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8\PAPS LR8\bin\Debug\PAPS LR8.dll
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8\PAPS LR8\bin\Debug\PAPS LR8.pdb
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8\PAPS LR8\bin\Debug\PAPS LR8.tlb
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8\PAPS LR8\obj\Debug\PAPS LR8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8\PAPS LR8\obj\Debug\PAPS LR8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8\PAPS LR8\obj\Debug\PAPS LR8.dll
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8\PAPS LR8\obj\Debug\PAPS LR8.pdb

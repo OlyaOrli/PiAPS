@@ -1,0 +1,38 @@
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.exe.config
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.exe
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.pdb
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS_LR8_Client.Form1.resources
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS_LR8_Client.Properties.Resources.resources
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.exe
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.pdb
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8.dll
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8.pdb
+C:\Users\User\source\repos\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.CopyComplete
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.exe.config
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.exe
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.pdb
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8.dll
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8.pdb
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS_LR8_Client.Form1.resources
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS_LR8_Client.Properties.Resources.resources
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.CopyComplete
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.exe
+C:\Users\User\source\repos\PiAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.pdb
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.exe.config
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.exe
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8 Client.pdb
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\bin\Debug\PAPS LR8.pdb
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csprojAssemblyReference.cache
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS_LR8_Client.Form1.resources
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS_LR8_Client.Properties.Resources.resources
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.GenerateResource.cache
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.CoreCompileInputs.cache
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.csproj.CopyComplete
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.exe
+C:\Институт\LR PiAPS\PAPS LR8\PAPS LR8 Client\PAPS LR8 Client\obj\Debug\PAPS LR8 Client.pdb
